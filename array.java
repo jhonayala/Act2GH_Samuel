@@ -10,6 +10,10 @@ public class array {
 			System.out.print("  "+ array[i]);
 		}
 		System.out.print("  ]");
+		
+		for (int i = 0; i < array.length; i++) {
+			System.out.print("  "+array[i]);
+		}
 	}
 
 }
